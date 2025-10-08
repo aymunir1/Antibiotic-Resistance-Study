@@ -1,8 +1,8 @@
-# 🧫 Antibiotic Resistance Study
+# Antibiotic Resistance Study
 
 This repository contains R scripts and data used to analyze the **zone of inhibition** of different antibiotics against bacterial isolates.  
 The study applies statistical and graphical techniques (ANOVA, interaction plots, and faceted ggplot visualizations) to explore antibiotic effectiveness.
-## 📊 Visualizations
+## Visualizations
 
 1️⃣ **Interaction Plot** – Displays the mean inhibition zone for each antibiotic across isolates.  
 2️⃣ **Grouped Bar Plot with Error Bars** – Compares mean inhibition zones with standard error.  
