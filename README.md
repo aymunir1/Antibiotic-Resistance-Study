@@ -3,7 +3,7 @@
 This repository contains [R scripts](https://github.com/aymunir1/Antibiotic-Resistance-Study/blob/main/Codes/Anova%20on%20zone%20of%20inhibition.R) and data used to analyze the **zone of inhibition** of different antibiotics against bacterial isolates.  
 The study applies statistical and graphical techniques (ANOVA, interaction plots, and faceted ggplot visualizations) to explore antibiotic effectiveness.
 
-## [Plots]()
+## [Plots](https://github.com/aymunir1/Antibiotic-Resistance-Study/tree/main/Plots)
 1️⃣ **Interaction Plot** – Displays the mean inhibition zone for each antibiotic across isolates.  
 2️⃣ **Grouped Bar Plot with Error Bars** – Compares mean inhibition zones with standard error.  
 3️⃣ **Jittered Scatter Plot** – Shows individual data points with mean summaries.  
